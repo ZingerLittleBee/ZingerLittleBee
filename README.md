@@ -3,11 +3,11 @@ Wow!
 ### Languages I use
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3078C6?style=flat-square&logo=TypeScript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
   
 </p>
 
@@ -30,3 +30,12 @@ Wow!
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 </p>
+
+### Stats
+
+<p>
+  
+![ZingerLittleBee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZingerLittleBee&show_icons=true&theme=algolia)
+  
+stats card power by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+ </p>
