@@ -34,10 +34,10 @@ Wow!
 ### Stats
 
 <p>
-  
-![ZingerLittleBee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZingerLittleBee&show_icons=true&theme=algolia)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ZingerLittleBee&show_icons=true&theme=algolia&layout=compact)
+  
+![ZingerLittleBee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZingerLittleBee&show_icons=true&theme=algolia)
 
 stats card power by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
  </p>
