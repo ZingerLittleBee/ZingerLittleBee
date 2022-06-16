@@ -25,19 +25,19 @@ Wow!
 ### Tools
 
 <p>
-  
   <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-002C66?style=flat-square&logo=Docker&logoColor=white" />
 </p>
 
 ### Stats
 
 <p>
+  <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZingerLittleBee&show_icons=true&theme=algolia&layout=compact" />
+  <img height="160" alt="ZingerLittleBee's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ZingerLittleBee&show_icons=true&theme=algolia" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ZingerLittleBee&show_icons=true&theme=algolia&layout=compact)
-  
-![ZingerLittleBee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZingerLittleBee&show_icons=true&theme=algolia)
-
-stats card power by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
- </p>
+<p>
+  <img alt="Readme Activity" src="https://activity-graph.herokuapp.com/graph?username=zingerlittlebee&theme=github" />
+</p>
