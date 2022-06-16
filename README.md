@@ -34,8 +34,8 @@ Wow!
 ### Stats
 
 <p>
-  <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZingerLittleBee&show_icons=true&theme=algolia&layout=compact" />
   <img height="160" alt="ZingerLittleBee's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ZingerLittleBee&show_icons=true&theme=algolia" />
+  <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZingerLittleBee&show_icons=true&theme=algolia&layout=compact" />
 </p>
 
 <p>
