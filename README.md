@@ -39,3 +39,24 @@ Wow!
   <img height="160" alt="ZingerLittleBee's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ZingerLittleBee&show_icons=true&theme=algolia" />
   <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZingerLittleBee&show_icons=true&theme=algolia&layout=compact" />
 </p>
+
+### App I build
+
+<a href="https://apps.apple.com/us/app/serverbee/id6443553714" target="_blank"><img alt="ServerBee" src="https://img.shields.io/badge/-ServerBee-000000?style=for-the-badge&logo=appstore&logoColor=white" />
+
+一款支持跨平台集监控、管理和终端的效率工具，支持 Linux 、Windows 、macOS ，甚至是 Nas 系统。
+
+A productivity tool that supports cross-platform monitoring, management, and terminals, supporting Linux, Windows, macOS, and even Nas systems.
+
+
+- Official Website: https://serverbee.app
+- Documentation: [https://docs.serverbee.app](https://docs.serverbee.app)
+
+<a href="https://apps.apple.com/us/app/serverbee/id6443553714" target="_blank"><img alt="ZingerLittleBee's GitHub stats" src="serverbee/download.svg" /></a>
+
+## Snapshot
+|  |  |  |
+| :----:| :----: | :----: |
+| ![](serverbee/dashboard.png) | ![](serverbee/detail-1.png) | ![](serverbee/detail-2.png) |
+| ![](serverbee/detail-3.png) | ![](serverbee/process-list.png) | ![](serverbee/process-detail.png) |
+| ![](serverbee/process-detail-2.png) | ![](serverbee/log.png) | ![](serverbee/dark.png) |
