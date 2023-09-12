@@ -54,7 +54,7 @@ A productivity tool that supports cross-platform monitoring, management, and ter
 
 <a href="https://apps.apple.com/us/app/serverbee/id6443553714" target="_blank"><img alt="ZingerLittleBee's GitHub stats" src="serverbee/download.svg" /></a>
 
-## Snapshot
+#### Snapshot
 |  |  |  |
 | :----:| :----: | :----: |
 | ![](serverbee/dashboard.png) | ![](serverbee/detail-1.png) | ![](serverbee/detail-2.png) |
