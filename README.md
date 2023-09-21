@@ -52,11 +52,11 @@ A productivity tool that supports cross-platform monitoring, management, and ter
 - Official Website: https://serverbee.app
 - Documentation: [https://docs.serverbee.app](https://docs.serverbee.app)
 
-<a href="https://apps.apple.com/us/app/serverbee/id6443553714" target="_blank"><img alt="ZingerLittleBee's GitHub stats" src="serverbee/download.svg" /></a>
+<a href="https://apps.apple.com/us/app/serverbee/id6443553714" target="_blank"><img alt="ZingerLittleBee's GitHub stats" src="https://assets.serverbee.app/snapshots/serverbee/download.svg" /></a>
 
 ## Snapshot
 |  |  |  |
 | :----:| :----: | :----: |
-| ![](serverbee/dashboard.png) | ![](serverbee/detail-1.png) | ![](serverbee/detail-2.png) |
-| ![](serverbee/detail-3.png) | ![](serverbee/process-list.png) | ![](serverbee/process-detail.png) |
-| ![](serverbee/process-detail-2.png) | ![](serverbee/log.png) | ![](serverbee/dark.png) |
+| ![](https://assets.serverbee.app/snapshots/serverbee/dashboard.png) | ![](https://assets.serverbee.app/snapshots/serverbee/detail-1.png) | ![](https://assets.serverbee.app/snapshots/serverbee/detail-2.png) |
+| ![](https://assets.serverbee.app/snapshots/serverbee/detail-3.png) | ![](https://assets.serverbee.app/snapshots/serverbee/process-list.png) | ![](https://assets.serverbee.app/snapshots/serverbee/process-detail.png) |
+| ![](https://assets.serverbee.app/snapshots/serverbee/process-detail-2.png) | ![](https://assets.serverbee.app/snapshots/serverbee/log.png) | ![](https://assets.serverbee.app/snapshots/serverbee/dark.png) |
