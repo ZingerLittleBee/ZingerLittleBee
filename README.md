@@ -78,11 +78,24 @@ A lightweight, powerful Docker management UI focused on simplicity and performan
 <details>
 <summary> Check here </summary>
   
-![](https://dockerman.app/_next/image?url=%2Fscreenshots%2Fdashboard.png&w=3840&q=50)
-![](https://dockerman.app/_next/image?url=%2Fscreenshots%2Fterminal.png&w=3840&q=50)
-![](https://dockerman.app/_next/image?url=%2Fscreenshots%2Fprocess.png&w=3840&q=50)
-![](https://dockerman.app/_next/image?url=%2Fscreenshots%2Finspect.png&w=3840&q=50)
-![](https://dockerman.app/_next/image?url=%2Fscreenshots%2Fstats.png&w=3840&q=50)
-![](https://dockerman.app/_next/image?url=%2Fscreenshots%2Flogs.png&w=3840&q=50)
+![Dashboard Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/dashboard.png)
+![Dashboard Dark Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/dark.png)
+![Terminal Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/terminal.png)
+![Process List Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/process.png)
+![inspect Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/inspect.png)
+![stats Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/stats.png)
+![logs Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/logs.png)
+![ssh Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/ssh.png)
+![build Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/build-log.png)
+![build History Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/build-log-history.png)
+![file system](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/file.png)
+![file preview](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/file-preview.png)
+![Termin Settings](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/terminal-settings.png)
+![Image Analysis](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/image-analysis.png)
+![Compose Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/compose.png)
+![Event Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/event.png)
+![Volume Browse Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/volume-browse.png)
+![Storage Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/storage.png)
+![Command Palette](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/cmd.png)
 
 </details>
