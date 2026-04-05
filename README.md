@@ -1,4 +1,19 @@
-Wow!
+<div align="center">
+
+# Hi there, I'm ZingerLittleBee 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Stay+hungry.+Stay+Foolish.)](https://git.io/typing-svg)
+
+[![GitHub User's stars](https://img.shields.io/github/stars/ZingerLittleBee?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/ZingerLittleBee)
+[![GitHub followers](https://img.shields.io/github/followers/ZingerLittleBee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ZingerLittleBee)
+[![Profile Views](https://komarev.com/ghpvc/?username=ZingerLittleBee&style=for-the-badge&color=blueviolet)](https://github.com/ZingerLittleBee)
+
+</div>
+
+### Tech Stack
+
+![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Languages I use
 
@@ -34,12 +49,15 @@ Wow!
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-002C66?style=flat-square&logo=Docker&logoColor=white" />
 </p>
 
-### Stats
+### Contribution Graph
 
-<p>
-  <img height="160" alt="ZingerLittleBee's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ZingerLittleBee&show_icons=true&theme=algolia" />
-  <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZingerLittleBee&show_icons=true&theme=algolia&layout=compact" />
-</p>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZingerLittleBee&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
 
 ### App I build
 
