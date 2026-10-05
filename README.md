@@ -42,10 +42,6 @@ I'm an indie developer building native Apple apps, cross-platform desktop tools,
 ![Dockerman dashboard](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/dashboard.png)
 ![Dockerman Kubernetes](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/k8s.png)
 
-#### AnyDoor
-
-![AnyDoor](https://raw.githubusercontent.com/ZingerLittleBee/AnyDoor/main/landing/public/promo-en.jpg)
-
 </details>
 
 ### Tech Stack
