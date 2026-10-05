@@ -1,119 +1,76 @@
 <div align="center">
 
-# Hi there, I'm ZingerLittleBee 👋
+# Hi there, I'm ZingerBee 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Stay+hungry.+Stay+Foolish.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Stay+hungry.+Stay+foolish.;Rust+%2B+Swift+%2B+TypeScript;Building+native+apps+and+dev+tools)](https://git.io/typing-svg)
 
-[![GitHub User's stars](https://img.shields.io/github/stars/ZingerLittleBee?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/ZingerLittleBee)
-[![GitHub followers](https://img.shields.io/github/followers/ZingerLittleBee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ZingerLittleBee)
+[![GitHub User's stars](https://img.shields.io/github/stars/ZingerLittleBee?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/ZingerLittleBee?tab=repositories&sort=stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/ZingerLittleBee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ZingerLittleBee?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=ZingerLittleBee&style=for-the-badge&color=blueviolet)](https://github.com/ZingerLittleBee)
+[![X](https://img.shields.io/badge/@zingerbee-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zingerbee)
 
 </div>
+
+I'm an indie developer building native Apple apps, cross-platform desktop tools, and lightweight Rust infrastructure. Most of my code these days is written with coding agents in the loop, so I also build tools for working with them.
+
+- 🔭 Currently working on [**Heeler**](https://github.com/ZingerLittleBee/Heeler), [**AnyDoor**](https://github.com/ZingerLittleBee/AnyDoor), and [**ServerBee**](https://github.com/ZingerLittleBee/ServerBee)
+- 🦀 Favorite combo: a Rust core with a native or React UI on top
+- 🤖 Daily drivers: Claude Code, Codex, and [herdr](https://herdr.dev)
+
+### Featured Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**Heeler**](https://github.com/ZingerLittleBee/Heeler) ![](https://img.shields.io/github/stars/ZingerLittleBee/Heeler?style=flat-square&label=%E2%98%85&color=E8B923) | Native iOS agent console for herdr. Watch and steer the coding agents on your machines over SSH, with a real libghostty terminal and push notifications. [App Store](https://apps.apple.com/us/app/heeler-for-herdr/id6797263135) · [Website](https://heeler.bybee.dev) | Swift |
+| [**Dockerman**](https://dockerman.app) ![](https://img.shields.io/github/stars/ZingerLittleBee/dockerman.app?style=flat-square&label=%E2%98%85&color=E8B923) | Native desktop UI for Docker **and** Kubernetes. Fast to launch, light on resources, entirely local. [Website](https://dockerman.app) | Tauri, Rust, React |
+| [**ServerBee**](https://github.com/ZingerLittleBee/ServerBee) ![](https://img.shields.io/github/stars/ZingerLittleBee/ServerBee?style=flat-square&label=%E2%98%85&color=E8B923) | Lightweight, self-hosted VPS monitoring. One Rust binary, real-time dashboard, alerts, web terminal, and status pages. [Docs](https://docs.serverbee.app) | Rust, React |
+| [**AnyDoor**](https://github.com/ZingerLittleBee/AnyDoor) ![](https://img.shields.io/github/stars/ZingerLittleBee/AnyDoor?style=flat-square&label=%E2%98%85&color=E8B923) | macOS menu bar control center driven by global hotkeys: app toggles, clipboard history, screenshots, window layouts, and a command palette. [Website](https://anydoor.dev) | Swift |
+| [**netop**](https://github.com/ZingerLittleBee/netop) ![](https://img.shields.io/github/stars/ZingerLittleBee/netop?style=flat-square&label=%E2%98%85&color=E8B923) | Terminal network traffic monitor with BPF filter rules. | Rust |
+| [**next-socks5**](https://github.com/ZingerLittleBee/next-socks5) ![](https://img.shields.io/github/stars/ZingerLittleBee/next-socks5?style=flat-square&label=%E2%98%85&color=E8B923) | Fast, lightweight SOCKS5 server with a TUI dashboard and a headless mode. [Website](https://next-socks5.bybee.dev) | Rust |
+| [**Portunus**](https://github.com/ZingerLittleBee/Portunus) | TCP/UDP port forwarding. Runs standalone from one TOML file, or as a control plane for a fleet of edge nodes. [Website](https://portunus.bybee.dev) | Rust, React |
+| [**CCSS**](https://github.com/ZingerLittleBee/cc-subscription-switch) ![](https://img.shields.io/github/stars/ZingerLittleBee/cc-subscription-switch?style=flat-square&label=%E2%98%85&color=E8B923) | TUI for switching between multiple Claude Code subscriptions on one machine. | TypeScript |
+
+Small Rust crates: [port-selector](https://crates.io/crates/port-selector) · [port-killer](https://crates.io/crates/port-killer) · [netraffic](https://github.com/ZingerLittleBee/netraffic)
+
+<details>
+<summary><b>Screenshots</b></summary>
+
+#### Heeler
+
+| Agent Console | Live Terminal | Changes |
+| :--: | :--: | :--: |
+| <img src="https://raw.githubusercontent.com/ZingerLittleBee/Heeler/main/docs/images/console-iphone.png" width="240" alt="Heeler agent console" /> | <img src="https://raw.githubusercontent.com/ZingerLittleBee/Heeler/main/docs/images/live-terminal-iphone.png" width="240" alt="Heeler live terminal" /> | <img src="https://raw.githubusercontent.com/ZingerLittleBee/Heeler/main/docs/images/changes-iphone.png" width="240" alt="Heeler changes view" /> |
+
+#### Dockerman
+
+![Dockerman dashboard](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/dashboard.png)
+![Dockerman Kubernetes](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/k8s.png)
+
+#### AnyDoor
+
+![AnyDoor](https://raw.githubusercontent.com/ZingerLittleBee/AnyDoor/main/landing/public/promo-en.jpg)
+
+</details>
 
 ### Tech Stack
 
-![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
-
-### Languages I use
-
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3078C6?style=flat-square&logo=TypeScript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  
-</p>
-
-### Frames
-
-<p>
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3078C6?style=flat-square&logo=TypeScript&logoColor=white" />
+  <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=Tauri&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
-    <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-000000?style=flat-square&logo=Tauri&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Nest.js" src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=NestJS&logoColor=white" />
-  <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="Codex" src="https://img.shields.io/badge/-Codex-111111?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-### Tools
-
-<p>
-  <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-002C66?style=flat-square&logo=Docker&logoColor=white" />
-</p>
-
-### Contribution Graph
+### Contributions
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZingerLittleBee&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![ZingerLittleBee's contribution chart](https://ghchart.rshah.org/0891b2/ZingerLittleBee)
 
 </div>
-
----
-
-### App I build
-
-<a href="https://apps.apple.com/us/app/serverbee/id6443553714" target="_blank"><img alt="ServerBee" src="https://img.shields.io/badge/-ServerBee-000000?style=for-the-badge&logo=appstore&logoColor=white" />
-
-一款支持跨平台集监控、管理和终端的效率工具，支持 Linux 、Windows 、macOS ，甚至是 Nas 系统。
-
-A productivity tool that supports cross-platform monitoring, management, and terminals, supporting Linux, Windows, macOS, and even Nas systems.
-
-
-- Official Website: https://serverbee.app
-- Documentation: [https://docs.serverbee.app](https://docs.serverbee.app)
-
-<a href="https://apps.apple.com/us/app/serverbee/id6443553714" target="_blank"><img alt="ZingerLittleBee's GitHub stats" src="https://assets.serverbee.app/snapshots/serverbee/download.svg" /></a>
-
-#### Snapshot
-<details>
-<summary> Check here </summary>
-  
-|  |  |  |
-| :----:| :----: | :----: |
-| ![](https://assets.serverbee.app/snapshots/serverbee/dashboard.png) | ![](https://assets.serverbee.app/snapshots/serverbee/detail-1.png) | ![](https://assets.serverbee.app/snapshots/serverbee/detail-2.png) |
-| ![](https://assets.serverbee.app/snapshots/serverbee/detail-3.png) | ![](https://assets.serverbee.app/snapshots/serverbee/process-list.png) | ![](https://assets.serverbee.app/snapshots/serverbee/process-detail.png) |
-| ![](https://assets.serverbee.app/snapshots/serverbee/process-detail-2.png) | ![](https://assets.serverbee.app/snapshots/serverbee/log.png) | ![](https://assets.serverbee.app/snapshots/serverbee/dark.png) |
-
-</details>
-
-### Desktop I build
-<a href="https://dockerman.app" target="_blank"><img alt="Dockerman" src="https://img.shields.io/badge/-Dockerman-000000?style=for-the-badge&logo=docsdotrs&logoColor=white" />
-
-A lightweight, powerful Docker management UI focused on simplicity and performance.
-
-- Official Website: https://dockerman.app
-
-#### Snapshot
-<details>
-<summary> Check here </summary>
-  
-![Dashboard Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/dashboard.png)
-![Dashboard Dark Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/dark.png)
-![Terminal Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/terminal.png)
-![Process List Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/process.png)
-![inspect Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/inspect.png)
-![stats Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/stats.png)
-![logs Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/logs.png)
-![ssh Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/ssh.png)
-![build Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/build-log.png)
-![build History Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/build-log-history.png)
-![file system](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/file.png)
-![file preview](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/file-preview.png)
-![Termin Settings](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/terminal-settings.png)
-![Image Analysis](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/image-analysis.png)
-![Compose Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/compose.png)
-![Event Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/event.png)
-![Volume Browse Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/volume-browse.png)
-![Storage Screenshot](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/storage.png)
-![Command Palette](https://raw.githubusercontent.com/ZingerLittleBee/dockerman.app/refs/heads/main/apps/landing/public/screenshots/readme/cmd.png)
-
-</details>
