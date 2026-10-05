@@ -13,7 +13,7 @@
 
 I'm an indie developer building native Apple apps, cross-platform desktop tools, and lightweight Rust infrastructure. Most of my code these days is written with coding agents in the loop, so I also build tools for working with them.
 
-- 🔭 Currently working on [**Heeler**](https://github.com/ZingerLittleBee/Heeler), [**AnyDoor**](https://github.com/ZingerLittleBee/AnyDoor), and [**ServerBee**](https://github.com/ZingerLittleBee/ServerBee)
+- 🔭 Currently working on [**Heeler**](https://github.com/ZingerLittleBee/Heeler), [**AnyDoor**](https://github.com/ZingerLittleBee/AnyDoor), [**Dockerman**](https://dockerman.app), and [**ServerBee**](https://github.com/ZingerLittleBee/ServerBee)
 - 🦀 Favorite combo: a Rust core with a native or React UI on top
 - 🤖 Daily drivers: Claude Code, Codex, and [herdr](https://herdr.dev)
 
