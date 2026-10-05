@@ -27,10 +27,6 @@ I'm an indie developer building native Apple apps, cross-platform desktop tools,
 | [**AnyDoor**](https://github.com/ZingerLittleBee/AnyDoor) | macOS menu bar control center driven by global hotkeys: app toggles, clipboard history, screenshots, window layouts, and a command palette. [Website](https://anydoor.dev) | Swift | ![](https://img.shields.io/github/stars/ZingerLittleBee/AnyDoor?style=flat-square&label=%E2%98%85&color=E8B923) |
 | [**netop**](https://github.com/ZingerLittleBee/netop) | Terminal network traffic monitor with BPF filter rules. | Rust | ![](https://img.shields.io/github/stars/ZingerLittleBee/netop?style=flat-square&label=%E2%98%85&color=E8B923) |
 | [**next&#8209;socks5**](https://github.com/ZingerLittleBee/next-socks5) | Fast, lightweight SOCKS5 server with a TUI dashboard and a headless mode. [Website](https://next-socks5.bybee.dev) | Rust | ![](https://img.shields.io/github/stars/ZingerLittleBee/next-socks5?style=flat-square&label=%E2%98%85&color=E8B923) |
-| [**Portunus**](https://github.com/ZingerLittleBee/Portunus) | TCP/UDP port forwarding. Runs standalone from one TOML file, or as a control plane for a fleet of edge nodes. [Website](https://portunus.bybee.dev) | Rust, React |  |
-| [**CCSS**](https://github.com/ZingerLittleBee/cc-subscription-switch) | TUI for switching between multiple Claude Code subscriptions on one machine. | TypeScript | ![](https://img.shields.io/github/stars/ZingerLittleBee/cc-subscription-switch?style=flat-square&label=%E2%98%85&color=E8B923) |
-
-Small Rust crates: [port-selector](https://crates.io/crates/port-selector) · [port-killer](https://crates.io/crates/port-killer) · [netraffic](https://github.com/ZingerLittleBee/netraffic)
 
 <details>
 <summary><b>Screenshots</b></summary>
@@ -58,11 +54,9 @@ Small Rust crates: [port-selector](https://crates.io/crates/port-selector) · [p
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3078C6?style=flat-square&logo=TypeScript&logoColor=white" />
-  <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=Tauri&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img alt="Codex" src="https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
