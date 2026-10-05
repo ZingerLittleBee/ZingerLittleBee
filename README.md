@@ -19,16 +19,16 @@ I'm an indie developer building native Apple apps, cross-platform desktop tools,
 
 ### Featured Projects
 
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| [**Heeler**](https://github.com/ZingerLittleBee/Heeler) ![](https://img.shields.io/github/stars/ZingerLittleBee/Heeler?style=flat-square&label=%E2%98%85&color=E8B923) | Native iOS agent console for herdr. Watch and steer the coding agents on your machines over SSH, with a real libghostty terminal and push notifications. [App Store](https://apps.apple.com/us/app/heeler-for-herdr/id6797263135) · [Website](https://heeler.bybee.dev) | Swift |
-| [**Dockerman**](https://dockerman.app) ![](https://img.shields.io/github/stars/ZingerLittleBee/dockerman.app?style=flat-square&label=%E2%98%85&color=E8B923) | Native desktop UI for Docker **and** Kubernetes. Fast to launch, light on resources, entirely local. [Website](https://dockerman.app) | Tauri, Rust, React |
-| [**ServerBee**](https://github.com/ZingerLittleBee/ServerBee) ![](https://img.shields.io/github/stars/ZingerLittleBee/ServerBee?style=flat-square&label=%E2%98%85&color=E8B923) | Lightweight, self-hosted VPS monitoring. One Rust binary, real-time dashboard, alerts, web terminal, and status pages. [Docs](https://docs.serverbee.app) | Rust, React |
-| [**AnyDoor**](https://github.com/ZingerLittleBee/AnyDoor) ![](https://img.shields.io/github/stars/ZingerLittleBee/AnyDoor?style=flat-square&label=%E2%98%85&color=E8B923) | macOS menu bar control center driven by global hotkeys: app toggles, clipboard history, screenshots, window layouts, and a command palette. [Website](https://anydoor.dev) | Swift |
-| [**netop**](https://github.com/ZingerLittleBee/netop) ![](https://img.shields.io/github/stars/ZingerLittleBee/netop?style=flat-square&label=%E2%98%85&color=E8B923) | Terminal network traffic monitor with BPF filter rules. | Rust |
-| [**next-socks5**](https://github.com/ZingerLittleBee/next-socks5) ![](https://img.shields.io/github/stars/ZingerLittleBee/next-socks5?style=flat-square&label=%E2%98%85&color=E8B923) | Fast, lightweight SOCKS5 server with a TUI dashboard and a headless mode. [Website](https://next-socks5.bybee.dev) | Rust |
-| [**Portunus**](https://github.com/ZingerLittleBee/Portunus) | TCP/UDP port forwarding. Runs standalone from one TOML file, or as a control plane for a fleet of edge nodes. [Website](https://portunus.bybee.dev) | Rust, React |
-| [**CCSS**](https://github.com/ZingerLittleBee/cc-subscription-switch) ![](https://img.shields.io/github/stars/ZingerLittleBee/cc-subscription-switch?style=flat-square&label=%E2%98%85&color=E8B923) | TUI for switching between multiple Claude Code subscriptions on one machine. | TypeScript |
+| Project | Description | Stack | Stars |
+| :-- | :-- | :-- | :--: |
+| [**Heeler**](https://github.com/ZingerLittleBee/Heeler) | Native iOS agent console for herdr. Watch and steer the coding agents on your machines over SSH, with a real libghostty terminal and push notifications. [App Store](https://apps.apple.com/us/app/heeler-for-herdr/id6797263135) · [Website](https://heeler.bybee.dev) | Swift | ![](https://img.shields.io/github/stars/ZingerLittleBee/Heeler?style=flat-square&label=%E2%98%85&color=E8B923) |
+| [**Dockerman**](https://dockerman.app) | Native desktop UI for Docker **and** Kubernetes. Fast to launch, light on resources, entirely local. [Website](https://dockerman.app) | Tauri, Rust, React | ![](https://img.shields.io/github/stars/ZingerLittleBee/dockerman.app?style=flat-square&label=%E2%98%85&color=E8B923) |
+| [**ServerBee**](https://github.com/ZingerLittleBee/ServerBee) | Lightweight, self-hosted VPS monitoring. One Rust binary, real-time dashboard, alerts, web terminal, and status pages. [Docs](https://docs.serverbee.app) | Rust, React | ![](https://img.shields.io/github/stars/ZingerLittleBee/ServerBee?style=flat-square&label=%E2%98%85&color=E8B923) |
+| [**AnyDoor**](https://github.com/ZingerLittleBee/AnyDoor) | macOS menu bar control center driven by global hotkeys: app toggles, clipboard history, screenshots, window layouts, and a command palette. [Website](https://anydoor.dev) | Swift | ![](https://img.shields.io/github/stars/ZingerLittleBee/AnyDoor?style=flat-square&label=%E2%98%85&color=E8B923) |
+| [**netop**](https://github.com/ZingerLittleBee/netop) | Terminal network traffic monitor with BPF filter rules. | Rust | ![](https://img.shields.io/github/stars/ZingerLittleBee/netop?style=flat-square&label=%E2%98%85&color=E8B923) |
+| [**next-socks5**](https://github.com/ZingerLittleBee/next-socks5) | Fast, lightweight SOCKS5 server with a TUI dashboard and a headless mode. [Website](https://next-socks5.bybee.dev) | Rust | ![](https://img.shields.io/github/stars/ZingerLittleBee/next-socks5?style=flat-square&label=%E2%98%85&color=E8B923) |
+| [**Portunus**](https://github.com/ZingerLittleBee/Portunus) | TCP/UDP port forwarding. Runs standalone from one TOML file, or as a control plane for a fleet of edge nodes. [Website](https://portunus.bybee.dev) | Rust, React |  |
+| [**CCSS**](https://github.com/ZingerLittleBee/cc-subscription-switch) | TUI for switching between multiple Claude Code subscriptions on one machine. | TypeScript | ![](https://img.shields.io/github/stars/ZingerLittleBee/cc-subscription-switch?style=flat-square&label=%E2%98%85&color=E8B923) |
 
 Small Rust crates: [port-selector](https://crates.io/crates/port-selector) · [port-killer](https://crates.io/crates/port-killer) · [netraffic](https://github.com/ZingerLittleBee/netraffic)
 
@@ -64,13 +64,6 @@ Small Rust crates: [port-selector](https://crates.io/crates/port-selector) · [p
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img alt="Codex" src="https://img.shields.io/badge/-Codex-111111?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Codex" src="https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-### Contributions
-
-<div align="center">
-
-![ZingerLittleBee's contribution chart](https://ghchart.rshah.org/0891b2/ZingerLittleBee)
-
-</div>
